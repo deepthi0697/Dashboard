@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Dashboard is a project to get comfortable with routing
+> Dashboard is a project which was done to get comfortable with routing. It has users, their post and comments on the posts.
 
 ## Install
 
